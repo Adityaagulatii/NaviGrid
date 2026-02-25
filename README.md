@@ -1,8 +1,8 @@
 🗺️ NaviGrid
 Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 
-🎬 Watch NaviGrid in action:
-<https://vimeo.com/1167111304?share=copy&fl=sv&fe=ci>
+🎬 Watch NaviGrid in action:[Demo]
+[<https://vimeo.com/1167111304?share=copy&fl=sv&fe=ci>](https://vimeo.com/1168262894?share=copy&fl=sv&fe=ci)
 
 📌 Overview
 NaviGrid simplifies indoor navigation by eliminating the need for expensive infrastructure. No BLE beacons. No Wi-Fi triangulation systems. No 3D building scans.
