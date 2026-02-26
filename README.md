@@ -1,4 +1,4 @@
-🗺️ NaviGrid \ 
+#🗺️ NaviGrid \
 Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 
 🎬 Watch NaviGrid in action: \
