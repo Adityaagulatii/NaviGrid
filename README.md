@@ -29,10 +29,10 @@ Navigating any new indoor space is as simple as snapping a photo
 🧭 Step 5 — Navigate
         Turn-by-turn directions guide you to your destination
 
-🎯 Use Cases
-🎓 Campus Navigation — Help new students find classrooms, offices, and facilities
-♿ Accessibility — Empower blind and visually impaired individuals to navigate independently
-🤖 Robotics — Provide autonomous systems with a lightweight indoor mapping solution
-🚁 Drone Delivery — Enable path planning for indoor drone navigation systems
+🎯 Use Cases \
+🎓 Campus Navigation — Help new students find classrooms, offices, and facilities \
+♿ Accessibility — Empower blind and visually impaired individuals to navigate independently \
+🤖 Robotics — Provide autonomous systems with a lightweight indoor mapping solution \
+🚁 Drone Delivery — Enable path planning for indoor drone navigation systems \
 
 
