@@ -5,12 +5,12 @@ Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 [Demo](https://vimeo.com/1168262894?share=copy&fl=sv&fe=ci)
 
 📌 Overview
-Eliminates the need for expensive indoor navigation infrastructure
-No BLE beacons, no Wi-Fi triangulation systems, no 3D building scans
-Users take a photo of a floorplan and annotate the rooms they want to navigate between
-Uses Computer Vision and OCR to understand the layout
-Determines current location, calculates an optimal route, and delivers turn-by-turn directions
-Navigating any new indoor space is as simple as snapping a photo
+Eliminates the need for expensive indoor navigation infrastructure \
+No BLE beacons, no Wi-Fi triangulation systems, no 3D building scans \ 
+Users take a photo of a floorplan and annotate the rooms they want to navigate between \
+Uses Computer Vision and OCR to understand the layout \
+Determines current location, calculates an optimal route, and delivers turn-by-turn directions \
+Navigating any new indoor space is as simple as snapping a photo \ 
 
 
 ⚙️ How It Works
