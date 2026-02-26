@@ -1,0 +1,23 @@
+# ── Core Image Processing ──────────────────────────────────────────────────────
+opencv-python==4.10.0.84        # Computer vision — floorplan parsing, edge detection
+numpy==1.26.4                   # Numerical operations for image arrays
+Pillow==10.4.0                  # Image loading and format handling
+
+# ── OCR (Text Extraction from Floorplans) ─────────────────────────────────────
+pytesseract==0.3.13             # Python wrapper for Tesseract OCR
+easyocr==1.7.1                  # Deep learning-based OCR (alternative/complement to Tesseract)
+
+# ── Graph Construction & Pathfinding ──────────────────────────────────────────
+networkx==3.3                   # Graph building, node/edge management, shortest path
+
+# ── VLM / AI Integration (LLaMA) ──────────────────────────────────────────────
+ollama==0.2.1                   # Local LLaMA model interface for VLM support
+requests==2.32.3                # HTTP requests (used for Ollama API calls)
+
+# ── Annotation & Visualization ────────────────────────────────────────────────
+matplotlib==3.9.1               # Visualizing floorplan graphs and navigation paths
+scipy==1.13.1                   # Spatial utilities (e.g., distance calculations between nodes)
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm==4.66.4                    # Progress bars for processing steps
+python-dotenv==1.0.1            # Environment variable management
