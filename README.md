@@ -56,7 +56,7 @@ NaviGrid \
 │   ├── edges.py                # Step 2: Connect nodes by defining edges/paths \
 │   └── navigate.py             # Step 3: Run navigation on lower level floor \
 │
-├── first_floor/
+├── first_floor \
 │   ├── nodes.py                # Step 1: Load floorplan image + annotations → extract nodes \
 │   ├── edges.py                # Step 2: Connect nodes by defining edges/paths \
 │   └── navigate.py             # Step 3: Run navigation on first floor \
