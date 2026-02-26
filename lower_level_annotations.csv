@@ -1,8 +1,0 @@
-label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
-entrance,149,324,19,17,preview.webp,952,1269
-room_045,191,324,129,91,preview.webp,952,1269
-room_040,199,430,99,72,preview.webp,952,1269
-elevator,223,506,47,30,preview.webp,952,1269
-stairs,171,578,34,56,preview.webp,952,1269
-room_025,215,717,112,122,preview.webp,952,1269
-room_010,216,842,112,111,preview.webp,952,1269
