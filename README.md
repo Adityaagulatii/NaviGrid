@@ -10,9 +10,9 @@ Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 - Users take a photo of a floorplan and annotate the rooms they want to navigate between 
 - Uses Computer Vision and OCR to understand the layout 
 - Determines current location, calculates an optimal route, and delivers turn-by-turn directions
-- Navigating any new indoor space is as simple as snapping a photo 
-\
-\
+- Navigating any new indoor space is as simple as snapping a photo
+
+
 ⚙️ How It Works \
 📸 Step 1 — Capture
         Take a photo of the building's floorplan
@@ -32,8 +32,8 @@ Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 \
 🎯 Use Cases \
 🎓 Campus Navigation — Help new students find classrooms, offices, and facilities \
-♿ Accessibility — Empower blind and visually impaired individuals to navigate independently 
+♿ Accessibility — Empower blind and visually impaired individuals to navigate independently \
 🤖 Robotics — Provide autonomous systems with a lightweight indoor mapping solution \
-🚁 Drone Delivery — Enable path planning for indoor drone navigation systems \
+🚁 Drone Delivery — Enable path planning for indoor drone navigation systems
 
 
