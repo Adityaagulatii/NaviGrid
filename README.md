@@ -13,13 +13,13 @@ Camera-based indoor navigation — no beacons, no 3D mapping, just your phone.
 - Navigating any new indoor space is as simple as snapping a photo
 
 💡 Inspiration
-- Indoor navigation has countless real-world applications — campus wayfinding, robotics, drone delivery, and accessibility for blind and visually impaired individuals
--Current solutions are long, complex, and expensive, typically requiring:
-        Deployment of hardware like BLE beacons or Wi-Fi access points
-        Full 3D models of the facility
+- Indoor navigation has countless real-world applications — campus wayfinding, robotics, drone delivery, and accessibility for blind and visually impaired individuals  
+- Current solutions are long, complex, and expensive, typically requiring: \
+        Deployment of hardware like BLE beacons or Wi-Fi access points \
+        Full 3D models of the facility \
         All because GPS simply doesn't work indoors
-- Existing research inspired this project:
-          Floorplan2Guide — uses LLMs to parse floorplans for blind and low-vision (BLV) navigation [link](https://arxiv.org/abs/2512.12177)
+- Existing research inspired this project: \
+          Floorplan2Guide — uses LLMs to parse floorplans for blind and low-vision (BLV) navigation [link](https://arxiv.org/abs/2512.12177) \
           Snap&Nav — a smartphone-based system that analyzes floor maps and detects intersections for indoor guidance [link](https://dl.acm.org/doi/10.1145/3676522)
 - Both prior systems were still complex and resource-heavy
         NaviGrid's goal: strip indoor navigation down to its simplest form — no beacons, no 3D mapping, no expensive infrastructure, just your camera
